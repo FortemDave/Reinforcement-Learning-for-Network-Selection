@@ -1,0 +1,36 @@
+Application may have transient spikes. (Hence we weight the previous inputs by a factor delta)
+
+Given N networks with K parameters
+Given R requirement parameters of the network
+
+Find the networks satisfying the Requirement Critera 0.9*R + 0.1*R'
+Take the Absolute difference between the criterias and the Parameter.
+Sum them up with respect to the weights assigned to each parameter.
+
+The final resulting Value is the reward obtained by the agent
+
+Goal:
+Selecting a Network that selects the best _efficient_ network basing on the requirement parameters
+
+
+Possible parameters:
+Network Uptime
+Network Response Time
+Packet Loss
+Latency
+Bandwidth Utilization
+Error Rate
+Downtime
+Slow response times
+Packet loss and latency
+Security risks
+Reliability
+
+Parameters being Used:
+Latency  --- Milliseconds (0 to 1000+)
+Bandwidth Utilization --- (Bandwidth of the Network Selected - Actual Being used/Bandwidth of the network) * 100
+Available Bandwidth --- (Bandwidth of the Network Selected in MB)
+Signal Strength --- Measured in Decibles
+Price --- (Cost per GB)
+
+Create an Equation with the Above Parameters
