@@ -1,0 +1,11 @@
+Reinforcement Learning-Based Network Selection for Heterogeneous Wireless Networks" by Rostami et al.
+Deep Q-Learning Based Network Selection for Multi-Access Edge Computing by Zhang et al.
+Multi-Agent Reinforcement Learning for Network Selection in Heterogeneous Wireless Networks by Li et al.
+A Survey on Reinforcement Learning for Network Selection in 5G and Beyond Wireless Networks by Liu et al.
+A Deep Reinforcement Learning Framework for Dynamic Network Selection in Software-Defined Vehicular Networks by Mabrouk et al
+Reinforcement Learning for Dynamic Network Selection in Heterogeneous Wireless Networks with D2D Communications by Shi et al.
+A Multi-Objective Reinforcement Learning Approach for Network Selection in Internet of Things by Gao et al.
+Deep Reinforcement Learning for Dynamic Spectrum Access in Cognitive Radio Networks by Zhao et al.
+Adaptive Network Selection in Heterogeneous Networks Using Deep Reinforcement Learning by Khalili et al.
+Reinforcement Learning-Based Network Selection in 5G HetNets with UAVs by Alqerm et al.
+Joint Optimization of Network Selection and Channel Access in Vehicular Networks using Deep Reinforcement Learning by Wang et al

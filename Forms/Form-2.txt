@@ -1,0 +1,24 @@
+Title of the Invention: REINFORCEMENT LEARNING FOR NETWORK SELECTION
+
+(a) NAME: Pratham Harshvardhan Dave
+(b) NATIONALITY: Indian
+(c) ADDRESS: XYZ
+
+3. Provisional
+
+4. DESCRIPTION(Description) shall Start from Next Page:
+
+The invention relates to a novel method for network selection using reinforcement learning (RL) in communication systems. The traditional network selection methods often rely on static or rule-based algorithms, which may not adapt well to changing network conditions and user preferences. The proposed invention leverages the power of RL, a popular machine learning technique, to enable devices to autonomously learn and make optimal network selection decisions based on observed network conditions and user requirements.
+
+The invention involves an RL-based network selection approach that includes an agent, which acts as a decision-maker, and interacts with the environment, which represents the available networks. The agent receives information about network conditions, such as signal strength, network load, and quality of service (QoS) metrics, and uses this information to make network selection decisions. The agent's decision-making process is guided by an RL policy that is learned through iterative interactions with the environment.
+
+The RL-based network selection approach has several advantages. It can adapt to dynamic network conditions and user preferences, leading to improved network performance, enhanced user satisfaction, and better resource utilization. It can also handle complex and dynamic network environments where traditional rule-based methods may not be effective. The learned RL policy can make intelligent and adaptive network selection decisions based on real-time network conditions, leading to efficient network utilization and improved overall network performance.
+
+The proposed invention can be implemented in various communication systems, such as cellular networks, wireless mesh networks, and IoT networks, to enhance network selection capabilities. It can be implemented as a standalone software module or integrated into existing network selection algorithms. The invention has applications in areas such as wireless communication, network management, and network optimization.
+
+The invention can find applications in diverse fields, including telecommunications, networking, and wireless communication technologies. It can be implemented in network devices, such as smartphones, routers, IoT devices, and other communication devices. The invention has potential for commercialization, as it addresses the limitations of existing network selection methods and offers a more intelligent and adaptable approach for network selection using reinforcement learning.
+
+
+
+7. ABSTRACT OF THE INVENTION: 
+Our Reinforcement Learning - based network selection approach involves an agent that learns to make network selection decisions based on observed network conditions, such as signal strength, network load, and quality of service (QoS) metrics and other relevant metrics. The agent interacts with the environment by selecting networks and receiving feedback in the form of rewards or penalties based on the performance of the selected networks. Through iterative interactions and learning from the feedback, the agent improves its decision-making capabilities and adapts to changing network conditions.

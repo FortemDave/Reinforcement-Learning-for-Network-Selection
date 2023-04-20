@@ -1,0 +1,25 @@
+1. APPLICANT'S REFERENCE
+2. TYPE OF APPLICATION: Ordinary
+3b Natural Person
+4. (Sir's decision)
+5. TITLE OF THE INVENTION: "REINFORCEMENT LEARNING FOR NETWORK SELECTION"
+6. ?
+7. ?
+8. NONE
+9. NONE (Indian/Local/National Patent - Not International)
+10. 
+
+5. TITLE: "REINFORCEMENT LEARNING FOR NETWORK SELECTION"
+
+12 DECLARATIONS: 
+[x] I am/ We are in possession of the above-mentioned invention.
+[x] The provisional/complete specification relating to the invention is filed with this application.
+[] [No biological material is used]
+[x] There is no lawful ground of objection(s) to the grant of the Patent to me/us.
+[] (Are we the true first Inventors?)
+[] (Are we legal representors of the true Inventors?)
+[x] (Paragraph 8?) 
+[x] (Convention Country?)
+[] (International / Patent Co-Operation Treaty)
+[x] The application is divided out of my /our application particulars of which is given in Paragraph-10 and pray that this application may be treated as deemed to have been filed on DD/MM/YYYY under section 16 of the Act.
+[x] The said invention is an improvement in or modification of the invention particulars of which are given in Paragraph-11.
